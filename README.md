@@ -46,4 +46,4 @@
 
 ## 📫 Contact
 
-- Discord: **robert.zsiga.520**
+- Discord: **_d4rkw1re_**
