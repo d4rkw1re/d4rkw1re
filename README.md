@@ -14,8 +14,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESX_Framework-00aaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge&logo=fivem&logoColor=white" />
+  <!-- ESX-hez nincs külön SimpleIcons logo, ezért Lua ikont használunk hozzá -->
+  <img src="https://img.shields.io/badge/ESX%20Framework-00AAFF?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 <p align="left">
@@ -31,7 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
